@@ -1,0 +1,134 @@
+
+  section{
+			display:flex;
+			margin:170px 250px;
+			}
+		
+		     .box{
+				background-color:white;
+				width:280px;
+				margin:auto;
+				border:5px solid #FF0080;
+				border-radius:20px;
+				text-align:center;	
+				}
+			 .box img{
+				margin-top:20px;
+				}
+		    
+			.bookmark{
+				display:flex;
+				margin-top:20px;
+				}
+			.book{
+				display:flex;
+				align-items:center;
+				}
+			.bookmark p{
+				margin-left:80px;
+				}
+			.book i{
+				margin-left:20px;
+				color:green;
+				}
+			.book h5{
+				margin-left:10px;
+				}
+			.bookmark span{
+				color:C0C0C0;
+				}
+			.image_flex{
+				display:flex;
+				align-items:center;
+				}
+			.image_flex a{
+				margin-left:10px;
+				margin-top:30px;
+				text-decoration:none;
+				background-color:blue;
+				color:white;
+				padding:10px;
+				border-radius:10px;
+				}
+			.image img{
+				border-radius:50px;
+				border:2px solid white;
+				margin-top:5px;
+				}
+			.image{
+				background-color:#FF0080;
+				padding:2px 25px;
+				border-radius:0px 10px;
+				}
+			.image h3{
+				margin-bottom:0px;
+				color:white;
+				}
+			 
+		
+		
+		
+		
+		
+		
+		     .box1{
+				background-color:white;
+				width:280px;
+				margin:auto;
+				border:5px solid #0000FF;
+				border-radius:20px;
+				text-align:center;	
+				}
+			 .box1 img{
+				margin-top:20px;
+				}
+		    
+			.bookmark1{
+				display:flex;
+				margin-top:20px;
+				}
+			.book1{
+				display:flex;
+				align-items:center;
+				}
+			.bookmark1 p{
+				margin-left:80px;
+				}
+			.book1 i{
+				margin-left:20px;
+				color:green;
+				}
+			.book1 h5{
+				margin-left:10px;
+				}
+			.bookmark1 span{
+				color:C0C0C0;
+				}
+			.image_flex1{
+				display:flex;
+				align-items:center;
+				}
+			.image_flex1 a{
+				margin-left:10px;
+				margin-top:30px;
+				text-decoration:none;
+				background-color:#FF0080;
+				color:white;
+				padding:10px;
+				border-radius:10px;
+				}
+			.image1 img{
+				border-radius:50px;
+				border:2px solid white;
+				margin-top:5px;
+				}
+			.image1{
+				background-color:0000FF;
+				padding:2px 25px;
+				border-radius:0px 10px;
+				}
+			.image1 h3{
+				margin-bottom:0px;
+				color:white;
+				}
+			 
